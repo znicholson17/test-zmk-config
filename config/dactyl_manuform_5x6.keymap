@@ -34,7 +34,7 @@ bindings = <
                                      &trans        &trans        &trans       &trans                       &kp KP_ENTER &mo 1           &trans            &trans
                                      &trans        &trans        &trans       &trans                       &trans       &trans          &trans            &trans
             >;
-        }
+        };
 
         raise_layer {
             bindings = <
