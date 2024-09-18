@@ -13,13 +13,13 @@
 
         default_layer {
             bindings = <
-&kp F1     &kp F2  &kp F3        &kp F4     &kp F5   &kp F6           &kp F7     &kp F8     &kp F9            &kp F10            &kp F11   &kp F12
-&kp ESC    &kp N1  &kp N2        &kp N3     &kp N4   &kp N5           &kp N6     &kp N7     &kp N8            &kp N9             &kp N0    &kp MINUS
-&kp TAB    &kp Q   &kp W         &kp E      &kp R    &kp T            &kp Y      &kp U      &kp I             &kp O              &kp P     &kp BACKSLASH
-&kp LSHFT  &kp A   &kp S         &kp D      &kp F    &kp G            &kp H      &kp J      &kp K             &kp L              &kp SEMI  &kp APOS
-&kp LCTRL  &kp Z   &kp X         &kp C      &kp V    &kp B            &kp N      &kp M      &kp COMMA         &kp DOT            &kp FSLH  &kp EQUAL
-                   &kp LEFT      &kp RIGHT  &mo 1    &kp BACKSPACE    &kp SPACE  &mo 2      &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-                   &kp LEFT_ALT  &kp HOME   &kp TAB  &kp DELETE       &kp ENTER  &kp PG_DN  &kp PG_UP         &kp LEFT_GUI
+&kp F1      &kp F2  &kp F3         &kp F4      &kp F5          &kp F6       &kp F7        &kp F8           &kp F9            &kp F10            &kp F11        &kp F12
+&kp EQUAL   &kp N1  &kp N2         &kp N3      &kp N4          &kp N5       &kp N6        &kp N7           &kp N8            &kp N9             &kp N0         &kp MINUS
+&kp TAB     &kp Q   &kp W          &kp F       &kp P           &kp B        &kp J         &kp L            &kp U             &kp Y              &kp SEMICOLON  &kp BACKSLASH
+&kp ESCAPE  &kp A   &kp R          &kp S       &kp T           &kp G        &kp M         &kp N            &kp E             &kp I              &kp O          &kp APOS
+&kp GRAVE   &kp Z   &kp X          &kp C       &kp D           &kp V        &kp K         &kp H            &kp COMMA         &kp DOT            &kp FSLH       &kp PRINTSCREEN
+                    &kp LEFT       &kp RIGHT   &kp LEFT_SHIFT  &kp LCTRL    &kp RCTRL     &kp RIGHT_SHIFT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+                    &kp BACKSPACE  &kp DELETE  &kp LEFT_ALT    &mo 2        &kp LEFT_GUI  &kp RIGHT_ALT    &kp ENTER         &kp SPACE
             >;
         };
 
